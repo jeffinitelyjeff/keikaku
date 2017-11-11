@@ -1,0 +1,42 @@
+---
+- name: 01_0
+  time: 13
+  account: podigious
+  text: "Next week's podcast covers DATS Intro Pt. 1, so today we're going to tweet reactions to Digimon Data squad episode 1!"
+  tags: ["digimon", "digimon data squad", "digimon savers", "DATS Intro Pt. 1 arc", "all according to queuekaku"]
+  image_attachments: ["~/code/keikaku_q/2017/11/10/01_0.png"]
+
+- name: 01_1
+  time: 14
+  reply_to: 01_0
+  account: podigious
+  text: "This screenshot is funny"
+  image_attachments: ["~/code/keikaku_q/2017/11/10/01_1.png"]
+  tags: ["digimon", "digimon data squad", "digimon savers", "DATS Intro Pt. 1 arc", "all according to queuekaku"]
+
+- name: 01_2
+  time: 15
+  reply_to: 01_1
+  account: podigious
+  text: "This screenshot isn't actually funny, but Jeff thinks it is. Also, it's a .jpg, which is a pain. Plus it has lots of tumblr tags!"
+  image_attachments: ["~/code/keikaku_q/2017/11/10/01_2.jpg"]
+  tags: ["digimon", "digimon data squad", "digimon savers", "DATS Intro Pt. 1 arc", "all according to queuekaku", "yo digimomma"]
+
+- name: 01_3
+  time: 16
+  reply_to: 01_2
+  account: podigious
+  text: "This one could go viral! But it's a bunch of images in a very specific order, so it could go viral all messed up :x"
+  image_attachments:
+    - "~/code/keikaku_q/2017/11/10/01_3-1.png"
+    - "~/code/keikaku_q/2017/11/10/01_3-2.png"
+    - "~/code/keikaku_q/2017/11/10/01_3-3.png"
+  tags: ["digimon", "digimon data squad", "digimon savers", "DATS Intro Pt. 1 arc", "all according to queuekaku"]
+
+- name: 01_4
+  time: 17
+  reply_to: 01_3
+  account: podigious
+  text: A wild gif appears! This one will be tricky to post to Facebook...
+  gif_attachment: ["~/code/keikaku_q/2017/11/10/01_4.gif"]
+  tags: ["digimon", "digimon data squad", "digimon savers", "DATS Intro Pt. 1 arc", "all according to queuekaku"]
